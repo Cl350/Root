@@ -7,3 +7,6 @@ h2 {
 p {
     border-top: solid; border-bottom: solid; border-left: solid; border-right: solid;
 }
+h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
