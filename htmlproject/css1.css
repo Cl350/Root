@@ -127,7 +127,7 @@ section p {
     font-style: oblique;
 }
 aside {
-    position: relative;
+    position: absolute;
     top: -1415px;
     left: 1000px;
     background-color: #d14077;
