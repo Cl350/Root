@@ -97,6 +97,7 @@ article p {
     font-size: 20px;
     line-height: 24px;
     padding: 2px 20px;
+    align-items: center;
 }
 section {
 
@@ -126,10 +127,11 @@ section p {
     padding: 2px 20px;
     font-style: oblique;
 }
+
 aside {
     position: absolute;
-    top: -1415px;
-    left: 1000px;
+    top: 290px;
+    left: 1260px;
     background-color: #d14077;
     border-style: groove;
     border-radius: 10px;
